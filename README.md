@@ -9,8 +9,8 @@
   <a href="mailto:xuantienphan2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-xuantienphan2005%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=161b22"/>
   </a>
-  <a href="www.linkedin.com/in/selinaphan">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=161b22"/>
+  <a href="https://www.linkedin.com/in/selinaphan">
+    <img src="https://img.shields.io/badge/LinkedIn-selinaphan-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=161b22"/>
   </a>
   <a href="https://github.com/SelinaPhan0205">
     <img src="https://img.shields.io/badge/GitHub-SelinaPhan0205-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=161b22"/>
