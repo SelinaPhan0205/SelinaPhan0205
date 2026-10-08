@@ -21,13 +21,13 @@
 
 ## About
 
-Information Technology undergraduate at the University of Information Technology (UIT), VNU-HCM — GPA **9.0/10.0**, expected graduation **March 2027**.
+Information Technology undergraduate at the University of Information Technology (UIT), VNU-HCM — GPA **9.01/10.0** or **3.74/4.0**, expected graduation **March 2027**.
 
 My work sits where data infrastructure meets applied AI. On the data side I build ingestion, streaming, and lakehouse pipelines; on the model side I reproduce recent papers, adapt them to a real domain, and measure what actually changed. Most of my projects need both, so I tend to own the flow from raw data through to a served result.
 
 Currently targeting **Data Engineer** and **AI / LLM Engineer** internship and entry-level roles, and spending my own time on LLM serving and inference optimization.
 
-- **UIT VNU-HCM** — Information Technology, GPA **9.0/10.0**
+- **UIT VNU-HCM** — Information Technology, GPA **9.01/10.0** or **3.74/4.0**
 - Academic merit scholarship for **5 consecutive semesters**
 - Second author on a paper accepted at **ACOMPA 2026**
 - **IELTS Academic** — 6.5/9.0
